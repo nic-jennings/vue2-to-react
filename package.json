@@ -1,0 +1,25 @@
+{
+  "name": "react-in-vue",
+  "version": "1.0.0",
+  "description": "A component to make it possible to add React into Vue",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nic-jennings/vue2-to-react.git"
+  },
+  "author": "Nic Jennings",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nic-jennings/vue2-to-react/issues"
+  },
+  "homepage": "https://github.com/nic-jennings/vue2-to-react#readme",
+  "devDependencies": {
+    "typescript": "^4.8.2"
+  }
+}
